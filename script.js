@@ -1,5 +1,4 @@
-function callbackFn(event) {
-    event.returnValue = "Can you leave this page?";
+function cbF(e) {
+    e.returnValue = "Can you leave this page?";
 }
-
-window.onbeforeunload = callbackFn;
+window.onbeforeunload = cbF;
