@@ -6,7 +6,7 @@
 
 ---
 
-## How to use?
+## 使い方
 
 1. このパッケージをダウンロードして、解凍する必要があります。  [> ここからDL](https://github.com/yoshi1125hisa/n-yobi-close-prevention/archive/master.zip)
 2. [chrome://extensions](chrome://extensions) にアクセスし、 `パッケージ化されていない拡張機能を読み込む` を押します。
@@ -14,6 +14,6 @@
 4. これでこの拡張機能が使えます。間違えてN予備を閉じてしまうこともありません！ 🎉
 
 
-## Other languages
+## その他言語
 
 - [English](./README.md)
