@@ -12,3 +12,7 @@
 2. Go to [chrome://extensions](chrome://extensions) and press `Load unpackaged extensions` .
 3. Select the unzipped file.
 4. You can now use this Chrome extension 🎉
+
+## Other languages
+
+- [日本語](./README.ja.md)
