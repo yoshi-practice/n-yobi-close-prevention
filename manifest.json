@@ -8,7 +8,7 @@
     "128": "images/128x128.png"
   },
   "content_scripts": [{
-    "matches": ["https://www.nnn.ed.nico/*"],
+    "matches": ["https://www.nnn.ed.nico/courses/*/chapters/*"],
     "js": ["script.js"]
   }],
   "permissions": []
